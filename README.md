@@ -47,9 +47,12 @@ b) Tratamento de colisão:
 + Os alunos que não estiverem presentes, serão escolhidos também por sorteio posteriormente.
 
 
-### Datas importantes:
+### Data de entrega e formato de entrega
 
-03/04/2024 - Data de entrega do trabalho
+Este trabalho deverá ser desenvolvido e entregue até o **03/04/2024**. A entrega consistirá:
+
++ Envio de um email para kennedy.lopes@ufersa.edu.br com o email institucional de um integrante do trabalho de forma que o assunto seja: "Entrega do projeto da 2a Unidade" e na mensagem colocar o nome dos integrantes e endereço do github que seja acessível ao professor e enviado antes da entrevista;
++ Entrevista de 5 a 10 minutos com os integrantes para ser avaliado o grau de entendimento do projeto, participação dos integrantes, originalidade da implementação e atestar se os integrantes utilizaram bem os recursos de versionamento, depuração e execução de código.
 
 ### Grupos
 
