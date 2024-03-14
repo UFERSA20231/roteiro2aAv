@@ -47,6 +47,24 @@ b) Tratamento de colisão:
 + Os alunos que não estiverem presentes, serão escolhidos também por sorteio posteriormente.
 
 
+### Datas importantes:
+
+03/04/2024 - Data de entrega do trabalho
+
+### Grupos
+
+Os grupos serão formados por até 4 integrantes.
+
+### Forma de entrega do trabalho
+
++ Repositório do GIT de forma que seja observado a atuação dos integrantes no trabalho;
++ Comentários sobre o que foi desenvolvido nas linhas de código do projeto.
++ README que descreva as observações que foram realizadas na implementação do projeto, como por exemplo:
+    + Como foi realizado a interface gráfica;
+    + Quais os problemas ocorridos e quais foram as soluções;
+    + Justificativas de escolhas realizadas no projeto.
+    + ...
+
 ### Observações finais
 
 + Todas as implementações podem, e devem ser, adaptadas para a realidade dos dados. Por isso, a documentação será importante para indentificar o que foi realizado e como foi planejado a solução.
