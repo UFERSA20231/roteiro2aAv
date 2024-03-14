@@ -46,6 +46,15 @@ b) Tratamento de colisão:
 
 + Os alunos que não estiverem presentes, serão escolhidos também por sorteio posteriormente.
 
+O sorteio foi realizado com os seguintes temas:
+|     | Funções Hash  | Endereçamentos |
+| --- | ------------- | -------------- |
+| 0   | Divisão       | Linear         |
+| 1   | Dobra         | Quadrática     |
+| 2   | Multiplicação | Duplo Hash     |
+| 3   |               | Exterior       |
+| 4   |               | Interior       |
+
 
 ### Data de entrega e formato de entrega
 
