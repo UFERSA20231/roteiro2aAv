@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct email {
-  char *end[20];
-  char *provedor[20];
-};
-
 int main() {
 
   FILE *f = fopen("todosOsContatos.txt", "r");
